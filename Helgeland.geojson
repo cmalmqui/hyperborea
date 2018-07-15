@@ -5,7 +5,7 @@
 "features": [
 { "type": "Feature", "properties": { "Name": "Sørfugløy", "Desc": "Fantastisk øy! Gjestebrygge med god dybde på begge sider." }, "geometry": { "type": "Point", "coordinates": [ 13.773545688284317, 67.05177696761281 ] } },
 { "type": "Feature", "properties": { "Name": "Inndyr", "Desc": "Lun havn, Diesel i kanneavstand, butikk" }, "geometry": { "type": "Point", "coordinates": [ 14.023046828166043, 67.035220520978811 ] } },
-{ "type": "Feature", "properties": { "Name": "Støtt", "Desc": "Restaurant drevet av lett underlig dame. Greit å ligge ytterst på flytebrygge foran restaurant." }, "geometry": { "type": "Point", "coordinates": [ 13.436852734375588, 66.925458702122683 ] } },
+{ "type": "Feature", "properties": { "Name": "Støtt", "Desc": "OK Restaurant. Greit å ligge ytterst på flytebrygge foran restaurant." }, "geometry": { "type": "Point", "coordinates": [ 13.436852734375588, 66.925458702122683 ] } },
 { "type": "Feature", "properties": { "Name": "Bolga", "Desc": "'Gratis' gjesteplass utenfor restaurant. Finfin joggetur rundt øya." }, "geometry": { "type": "Point", "coordinates": [ 13.23312712417035, 66.801113912831482 ] } },
 { "type": "Feature", "properties": { "Name": "Myken", "Desc": "Helgelands Grunerløkka. Cortado og bruschetta galore. Liten gjestekai, utsatt for vær. " }, "geometry": { "type": "Point", "coordinates": [ 12.47700620972984, 66.761696053723384 ] } },
 { "type": "Feature", "properties": { "Name": "Myken", "Desc": "Kystverket har gode bøyer om kaia er overfull." }, "geometry": { "type": "Point", "coordinates": [ 12.458849798747174, 66.757900288361157 ] } },
